@@ -1,0 +1,26 @@
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+}
+
+ul li{
+    color: royalblue;
+    letter-spacing: 0.1rem;
+}
+
+body{
+    font-family: "Roboto", sans-serif;
+}
+.important{
+    font-size: 1.3em;
+}
+header{
+    background-color: darkorange;
+}
+footer,ul,li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+    background-color:darkorange ;
+}
